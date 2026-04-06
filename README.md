@@ -37,13 +37,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Chenyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shyanne257&theme=github_dark&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyanne257&theme=github_dark&layout=compact&hide_border=true)
-
----
-
 ## 🎓 Education
 
 ### **University of Southern California** — MS Applied Data Science
