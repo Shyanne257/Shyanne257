@@ -9,7 +9,7 @@
 ## 📍 Contact
 
 - **Email:** *shyannezuo@gmail.com*
-- **LinkedIn:** *[https://www.linkedin.com/in/chenyu-zuo-025017355/]*
+- **LinkedIn:** *https://www.linkedin.com/in/chenyu-zuo-025017355/*
 - **GitHub:** [@Shyanne257](https://github.com/Shyanne257)
 
 ---
