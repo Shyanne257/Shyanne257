@@ -5,7 +5,7 @@
 📍 Los Angeles, CA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chenyu-zuo-025017355/)
-[![Email](https://img.shields.io/badge/Email-chenyuzu%40usc.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shyannezuo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-shyannezuo%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shyannezuo@gmail.com)
 
 ---
 
